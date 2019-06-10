@@ -32,7 +32,15 @@
       "featured": true
     },
     
-  
+ 
+    {
+      "name": "new wallpaper",
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": false
+    },
     {
       "name": "ShotB",
       "author": "Someone",
