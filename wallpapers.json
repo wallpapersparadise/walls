@@ -6,6 +6,11 @@
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
     },
     {
+      "name": "Black & White",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
+    {
       "name": "City",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
@@ -50,7 +55,7 @@
       "author": "splash",
       "url": "https://i.ibb.co/pfWGJjL/IMG-13062019-002459-9-x-18-cm.jpg",
       "dimensions": "1275x2547",
-      "collections": "people,amoled,featured",
+      "collections": "people,amoled,featured,Black & White",
       "downloadable": true
     },
     {
