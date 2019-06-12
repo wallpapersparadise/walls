@@ -51,11 +51,19 @@
       "downloadable": true
     },
     {
+      "name": "Amoled01a",
+      "author": "splash",
+      "url": "https://i.ibb.co/vvG1qph/IMG-13062019-002928-2500-x-1742-pixel.jpg",
+      "dimensions": "2500x1742",
+      "collections": "people,Black & White,featured",
+      "downloadable": true
+    },
+    {
       "name": "Amoled01q",
       "author": "splash",
       "url": "https://i.ibb.co/pfWGJjL/IMG-13062019-002459-9-x-18-cm.jpg",
       "dimensions": "1275x2547",
-      "collections": "people,amoled,featured,Black & White",
+      "collections": "people,amoled,featured",
       "downloadable": true
     },
     {
