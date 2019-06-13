@@ -6,6 +6,11 @@
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
     },
     {
+      "name": "Animals & Birds",
+      "preview_url": "https://i.ibb.co/xzHxSpK/IMG-13062019-013448-9-x-18-cm.jpg",
+      "preview_thumbnail_url": "https://i.ibb.co/xzHxSpK/IMG-13062019-013448-9-x-18-cm.jpg"
+    },
+    {
       "name": "Black & White",
       "preview_url": "https://i.ibb.co/vvG1qph/IMG-13062019-002928-2500-x-1742-pixel.jpg",
       "preview_thumbnail_url": "https://i.ibb.co/vvG1qph/IMG-13062019-002928-2500-x-1742-pixel.jpg"
@@ -14,6 +19,11 @@
       "name": "City",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+    },
+    {
+      "name": "S10 Wallpapers",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
     },
     {
       "name": "Food",
@@ -51,15 +61,15 @@
       "downloadable": true
     },
     {
-      "name": "Amoled01a",
+      "name": "Toucan",
       "author": "splash",
       "url": "https://i.ibb.co/vvG1qph/IMG-13062019-002928-2500-x-1742-pixel.jpg",
       "dimensions": "2500x1742",
-      "collections": "people,Black & White,featured",
+      "collections": "people,Black & White",
       "downloadable": true
     },
     {
-      "name": "Amoled01q",
+      "name": "Handsjoined",
       "author": "splash",
       "url": "https://i.ibb.co/pfWGJjL/IMG-13062019-002459-9-x-18-cm.jpg",
       "dimensions": "1275x2547",
@@ -67,11 +77,11 @@
       "downloadable": true
     },
     {
-      "name": "new wallpaper",
+      "name": "Owl01",
       "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
+      "url": "https://i.ibb.co/xzHxSpK/IMG-13062019-013448-9-x-18-cm.jpg",
+      "dimensions": "1680x3358",
+      "collections": "featured,Animals & Birds",
       "downloadable": false
     },
     {
