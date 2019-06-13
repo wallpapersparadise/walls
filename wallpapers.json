@@ -125,6 +125,30 @@
       "downloadable": true
     },
     {
+      "name": "Girl01",
+      "author": "splash",
+      "url": "https://i.ibb.co/swdRNYr/IMG-13062019-005842-9-x-18-cm.jpg",
+      "dimensions": "1880x3757",
+      "collections": "people,featured",
+      "downloadable": true
+    },
+    {
+      "name": "Food001",
+      "author": "splash",
+      "url": "https://i.ibb.co/f4HdV8c/IMG-13062019-012110-9-x-18-cm.jpg",
+      "dimensions": "1177x2352",
+      "collections": "food,featured",
+      "downloadable": true
+    },
+    {
+      "name": "strt01",
+      "author": "splash",
+      "url": "https://i.ibb.co/0GNn26f/IMG-13062019-012124-9-x-18-cm.jpg",
+      "dimensions": "1867x3720",
+      "collections": "city,featured",
+      "downloadable": true
+    },
+    {
       "name": "ShotB",
       "author": "Someone",
       "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
@@ -147,7 +171,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
+      "collections": "featured,landscapes,people"
     },
     {
       "name": "Wallsplash 3",
