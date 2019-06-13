@@ -65,7 +65,7 @@
       "author": "splash",
       "url": "https://i.ibb.co/vvG1qph/IMG-13062019-002928-2500-x-1742-pixel.jpg",
       "dimensions": "2500x1742",
-      "collections": "people,Black and White",
+      "collections": "Black and White",
       "downloadable": true
     },
     {
@@ -169,7 +169,7 @@
       "author": "splash",
       "url": "https://i.ibb.co/4t6vS6N/IMG-13062019-002413-2500-x-1667-pixel.jpg",
       "dimensions": "2500x1667",
-      "collections": "people,featured",
+      "collections": "featured",
       "downloadable": true
     },
     {
@@ -202,7 +202,7 @@
       "author": "splash",
       "url": "https://i.ibb.co/BqkMSkD/IMG-13062019-012939-9-x-18-cm.jpg",
       "dimensions": "2001x3999",
-      "collections": "landscapes,featured",
+      "collections": "Nature,featured",
       "downloadable": true
     },
     {
@@ -666,7 +666,7 @@
       "author": "Someone",
       "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
       "dimensions": "3200x2560",
-      "collections": "people,city",
+      "collections": "city",
       "downloadable": false
     },
     {
@@ -700,7 +700,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people"
+      "collections": "featured,landscapes"
     },
     {
       "name": "lhouse",
@@ -717,7 +717,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,food,people"
+      "collections": "featured,landscapes"
     },
     {
       "name": "incdog",
@@ -734,7 +734,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people,city"
+      "collections": "landscapes,Nature,city"
     },
     {
       "name": "dogcc",
@@ -760,7 +760,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,people"
+      "collections": "featured,Nature"
     },
     {
       "name": "dogcc02",
@@ -777,7 +777,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "food"
+      "collections": "featured,city"
     },
     {
       "name": "Webp Image",
