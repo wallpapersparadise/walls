@@ -6,7 +6,7 @@
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
     },
     {
-      "name": "Animals & Birds",
+      "name": "Animals and Birds",
       "preview_url": "https://i.ibb.co/xzHxSpK/IMG-13062019-013448-9-x-18-cm.jpg",
       "preview_thumbnail_url": "https://i.ibb.co/xzHxSpK/IMG-13062019-013448-9-x-18-cm.jpg"
     },
@@ -73,7 +73,7 @@
       "author": "Someone",
       "url": "https://i.ibb.co/xzHxSpK/IMG-13062019-013448-9-x-18-cm.jpg",
       "dimensions": "1680x3358",
-      "collections": "featured,Animals & Birds",
+      "collections": "featured,Animals and Birds",
       "downloadable": false
     },
     {
@@ -89,7 +89,7 @@
       "author": "splash",
       "url": "https://i.ibb.co/Xbtcczd/IMG-13062019-013438-9-x-18-cm.jpg",
       "dimensions": "1334x2666",
-      "collections": "Animals & Birds,featured",
+      "collections": "Animals and Birds,featured",
       "downloadable": true
     },
     {
@@ -97,7 +97,7 @@
       "author": "Someone",
       "url": "https://i.ibb.co/1v63F2x/IMG-13062019-013430-9-x-18-cm.jpg",
       "dimensions": "1926x3848",
-      "collections": "featured,Animals & Birds",
+      "collections": "featured,Animals and Birds",
       "downloadable": false
     },
     {
@@ -114,6 +114,14 @@
       "url": "https://i.ibb.co/p1DFrJn/IMG-13062019-005113-2000-x-1335-pixel.jpg",
       "dimensions": "2000x1335",
       "collections": "landscapes,featured",
+      "downloadable": true
+    },
+    {
+      "name": "cham001",
+      "author": "splash",
+      "url": "https://i.ibb.co/2g0F8Ny/IMG-13062019-010110-9-x-18-cm.jpg",
+      "dimensions": "1283x2565",
+      "collections": "Animals and Birds,featured",
       "downloadable": true
     },
     {
