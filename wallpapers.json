@@ -81,7 +81,7 @@
       "author": "Splash",
       "url": "https://i.ibb.co/3Bv5XVS/IMG-13062019-013155-9-x-18-cm.jpg",
       "dimensions": "2001x3998",
-      "collections": "landscapes,featured",
+      "collections": "Nature,featured",
       "downloadable": true
     },
     {
@@ -113,7 +113,7 @@
       "author": "splash",
       "url": "https://i.ibb.co/p1DFrJn/IMG-13062019-005113-2000-x-1335-pixel.jpg",
       "dimensions": "2000x1335",
-      "collections": "landscapes,featured",
+      "collections": "nature,featured",
       "downloadable": true
     },
     {
@@ -122,6 +122,14 @@
       "url": "https://i.ibb.co/2g0F8Ny/IMG-13062019-010110-9-x-18-cm.jpg",
       "dimensions": "1283x2565",
       "collections": "Animals and Birds,featured",
+      "downloadable": true
+    },
+    {
+      "name": "landscp01q",
+      "author": "splash",
+      "url": "https://i.ibb.co/v1nKQfG/IMG-13062019-004453-9-x-18-cm.jpg",
+      "dimensions": "1909x3816",
+      "collections": "landscapes,featured",
       "downloadable": true
     },
     {
