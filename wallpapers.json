@@ -69,20 +69,20 @@
       "downloadable": true
     },
     {
-      "name": "Dog1a",
-      "author": "Someone",
-      "url": "https://i.ibb.co/1v63F2x/IMG-13062019-013430-9-x-18-cm.jpg",
-      "dimensions": "1926x3848",
-      "collections": "featured,Animals & Birds",
-      "downloadable": false
-    },
-    {
       "name": "Owl01",
       "author": "Someone",
       "url": "https://i.ibb.co/xzHxSpK/IMG-13062019-013448-9-x-18-cm.jpg",
       "dimensions": "1680x3358",
       "collections": "featured,Animals & Birds",
       "downloadable": false
+    },
+    {
+      "name": "green1a",
+      "author": "Splash",
+      "url": "https://i.ibb.co/3Bv5XVS/IMG-13062019-013155-9-x-18-cm.jpg",
+      "dimensions": "2001x3998",
+      "collections": "featured,Landscapes",
+      "downloadable": true
     },
     {
       "name": "Kitten",
@@ -93,11 +93,27 @@
       "downloadable": true
     },
     {
+      "name": "Dog1a",
+      "author": "Someone",
+      "url": "https://i.ibb.co/1v63F2x/IMG-13062019-013430-9-x-18-cm.jpg",
+      "dimensions": "1926x3848",
+      "collections": "featured,Animals & Birds",
+      "downloadable": false
+    },
+    {
       "name": "Handsjoined",
       "author": "splash",
       "url": "https://i.ibb.co/pfWGJjL/IMG-13062019-002459-9-x-18-cm.jpg",
       "dimensions": "1275x2547",
       "collections": "people,featured",
+      "downloadable": true
+    },
+    {
+      "name": "Amoled1qq",
+      "author": "splash",
+      "url": "https://i.ibb.co/sJSYZVs/IMG-13062019-000905-9-x-18-cm.jpg",
+      "dimensions": "2001x3999",
+      "collections": "amoled,featured",
       "downloadable": true
     },
     {
@@ -171,11 +187,11 @@
       "collections": "landscapes,people"
     },
     {
-      "name": "Amoled02q",
+      "name": "circle02",
       "author": "splash",
       "url": "https://i.ibb.co/4t6vS6N/IMG-13062019-002413-2500-x-1667-pixel.jpg",
       "dimensions": "2500x1667",
-      "collections": "people,amoled,featured",
+      "collections": "people,featured",
       "downloadable": true
     },
     {
