@@ -157,6 +157,32 @@
       "downloadable": true
     },
     {
+      "name": "circle02",
+      "author": "splash",
+      "url": "https://i.ibb.co/4t6vS6N/IMG-13062019-002413-2500-x-1667-pixel.jpg",
+      "dimensions": "2500x1667",
+      "collections": "people,featured",
+      "downloadable": true
+    },
+    {
+      "name": "Wallsplash1qa",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "landscapes,city"
+    },
+    {
+      "name": "Webp Image",
+      "author": "unknown",
+      "url": "https://www.gstatic.com/webp/gallery/4.webp",
+      "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+      "dimensions": "3200x2560",
+      "copyright": "Unknown",
+      "collections": "landscapes"
+    }
+    {
       "name": "ShotB",
       "author": "Someone",
       "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
@@ -218,23 +244,6 @@
       "collections": "featured,people"
     },
     {
-      "name": "Wallsplash 7",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people"
-    },
-    {
-      "name": "circle02",
-      "author": "splash",
-      "url": "https://i.ibb.co/4t6vS6N/IMG-13062019-002413-2500-x-1667-pixel.jpg",
-      "dimensions": "2500x1667",
-      "collections": "people,featured",
-      "downloadable": true
-    },
-    {
       "name": "Wallsplash 8",
       "author": "wallsplash",
       "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
@@ -243,14 +252,5 @@
       "copyright": "Free (do whatever you want)",
       "collections": "food"
     },
-    {
-      "name": "Webp Image",
-      "author": "unknown",
-      "url": "https://www.gstatic.com/webp/gallery/4.webp",
-      "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-      "dimensions": "3200x2560",
-      "copyright": "Unknown",
-      "collections": "landscapes"
-    }
   ]
 }
