@@ -214,7 +214,7 @@
       "downloadable": true
     },
     {
-      "name": "women02z",
+      "name": "women02za",
       "author": "splash",
       "url": "https://i.ibb.co/2j4ttLb/IMG-13062019-012923-9-x-18-cm.jpg",
       "dimensions": "1376x2749",
@@ -227,6 +227,62 @@
       "url": "https://i.ibb.co/6WpZLNs/IMG-13062019-012844-9-x-18-cm.jpg",
       "dimensions": "2001x3998",
       "collections": "people,featured,city",
+      "downloadable": true
+    },
+    {
+      "name": "manbw01",
+      "author": "splash",
+      "url": "https://i.ibb.co/XXmHbJv/IMG-13062019-002649-9-x-18-cm.jpg",
+      "dimensions": "1981x3959",
+      "collections": "people,featured,city,Black and White",
+      "downloadable": true
+    },
+    {
+      "name": "giraffe",
+      "author": "splash",
+      "url": "https://i.ibb.co/FW57DKd/IMG-13062019-013245-9-x-18-cm.jpg",
+      "dimensions": "1497x2992",
+      "collections": "Animals and Birds,featured",
+      "downloadable": true
+    },
+     {
+      "name": "brown01q",
+      "author": "splash",
+      "url": "https://i.ibb.co/hfYT9wB/IMG-13062019-013040-9-x-18-cm.jpg",
+      "dimensions": "1334x2666",
+      "collections": "landscapes,featured",
+      "downloadable": true
+    },
+    {
+      "name": "dog01c",
+      "author": "splash",
+      "url": "https://i.ibb.co/NmVH9VP/IMG-13062019-010057-9-x-18-cm.jpg",
+      "dimensions": "1894x3784",
+      "collections": "Animals and Birds,featured",
+      "downloadable": true
+    },
+    {
+      "name": "texture1c",
+      "author": "splash",
+      "url": "https://i.ibb.co/SsH39K6/IMG-13062019-013129-9-x-18-cm.jpg",
+      "dimensions": "1334x2666",
+      "collections": "Texture,featured",
+      "downloadable": true
+    },
+    {
+      "name": "manred1c",
+      "author": "splash",
+      "url": "https://i.ibb.co/fDz1dPC/IMG-13062019-004350-9-x-18-cm.jpg",
+      "dimensions": "1880x3757",
+      "collections": "people,featured",
+      "downloadable": true
+    },
+    {
+      "name": "stones",
+      "author": "splash",
+      "url": "https://i.ibb.co/dQd26Tr/IMG-13062019-004802-9-x-18-cm.jpg",
+      "dimensions": "1898x3792",
+      "collections": "Nature,featured",
       "downloadable": true
     },
     {
