@@ -11,7 +11,7 @@
       "preview_thumbnail_url": "https://i.ibb.co/xzHxSpK/IMG-13062019-013448-9-x-18-cm.jpg"
     },
     {
-      "name": "Black & White",
+      "name": "Black and White",
       "preview_url": "https://i.ibb.co/vvG1qph/IMG-13062019-002928-2500-x-1742-pixel.jpg",
       "preview_thumbnail_url": "https://i.ibb.co/vvG1qph/IMG-13062019-002928-2500-x-1742-pixel.jpg"
     },
@@ -65,7 +65,7 @@
       "author": "splash",
       "url": "https://i.ibb.co/vvG1qph/IMG-13062019-002928-2500-x-1742-pixel.jpg",
       "dimensions": "2500x1742",
-      "collections": "people,Black & White",
+      "collections": "people,Black and White",
       "downloadable": true
     },
     {
@@ -172,6 +172,62 @@
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
       "collections": "landscapes,city"
+    },
+    {
+      "name": "Girl02q",
+      "author": "splash",
+      "url": "https://i.ibb.co/9gsKNcq/IMG-13062019-012653-9-x-18-cm.jpg",
+      "dimensions": "1869x3736",
+      "collections": "people,featured",
+      "downloadable": true
+    },
+    {
+      "name": "man01q",
+      "author": "splash",
+      "url": "https://i.ibb.co/JmgT2TH/IMG-13062019-012808-9-x-18-cm.jpg",
+      "dimensions": "2001x3999",
+      "collections": "people,featured",
+      "downloadable": true
+    },
+    {
+      "name": "green2q",
+      "author": "splash",
+      "url": "https://i.ibb.co/BqkMSkD/IMG-13062019-012939-9-x-18-cm.jpg",
+      "dimensions": "2001x3999",
+      "collections": "landscapes,featured",
+      "downloadable": true
+    },
+    {
+      "name": "tealovers1q",
+      "author": "splash",
+      "url": "https://i.ibb.co/3fb30RZ/IMG-13062019-012717-9-x-18-cm.jpg",
+      "dimensions": "1902x3801",
+      "collections": "food,featured",
+      "downloadable": true
+    },
+    {
+      "name": "women02",
+      "author": "splash",
+      "url": "https://i.ibb.co/mT0YVsv/IMG-13062019-012957-9-x-18-cm.jpg",
+      "dimensions": "2001x3999",
+      "collections": "people,featured,Black and White",
+      "downloadable": true
+    },
+    {
+      "name": "women02z",
+      "author": "splash",
+      "url": "https://i.ibb.co/2j4ttLb/IMG-13062019-012923-9-x-18-cm.jpg",
+      "dimensions": "1376x2749",
+      "collections": "people,featured",
+      "downloadable": true
+    },
+    {
+      "name": "morning01a",
+      "author": "splash",
+      "url": "https://i.ibb.co/6WpZLNs/IMG-13062019-012844-9-x-18-cm.jpg",
+      "dimensions": "2001x3998",
+      "collections": "people,featured,city",
+      "downloadable": true
     },
     {
       "name": "ShotB",
